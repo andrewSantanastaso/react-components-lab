@@ -1,5 +1,5 @@
 import WeatherForecast from "./components/WeatherForcast";
-// import "./WeatherForcast.css";
+
 const weatherForecasts = [
   {
     day: "Mon",
