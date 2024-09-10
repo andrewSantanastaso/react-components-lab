@@ -6,7 +6,7 @@ const WeatherForecast = (props) => {
       <img src={props.weather.img} alt={props.weather.altImg} />
       <p>
         <span></span>
-        {props.weather.condition}
+        {props.weather.conditions}
       </p>
       <p>
         <span></span>
